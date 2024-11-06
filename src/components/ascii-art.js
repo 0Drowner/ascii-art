@@ -12,8 +12,6 @@ const AsciiArt = () => {
   // ASCII character sets from dark to light
   const ASCII_CHARS = {
     standard: '@%#*+=-:. ',
-    detailed: '$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,"^`\'. ',
-    blocks: '█▓▒░ '
   };
 
   const handleImageUpload = (event) => {
