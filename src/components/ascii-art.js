@@ -11,7 +11,7 @@ const AsciiArt = () => {
 
   // ASCII character sets from dark to light
   const ASCII_CHARS = {
-    standard: '@%#*+=-:. ',
+    standard: '@@%#*+=-:. ',
   };
 
   const handleImageUpload = (event) => {
